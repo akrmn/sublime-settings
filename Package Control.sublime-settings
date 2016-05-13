@@ -5,13 +5,17 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"BracketHighlighter",
+		"LaTeXTools",
+		"Markdown HTML Preview",
 		"Material Theme",
 		"Material Theme - Appbar",
+		"Material Theme - White Panels",
 		"Package Control",
 		"Predawn",
 		"Prolog",
 		"SideBarEnhancements",
-		"SublimeHaskell",
-		"SublimeREPL"
+		"SublimeHaskell"
 	]
 }

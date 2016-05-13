@@ -1,0 +1,4 @@
+[
+    { "keys": ["f11"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+    { "keys": ["ctrl+f11"], "command": "toggle_full_screen" },
+]
